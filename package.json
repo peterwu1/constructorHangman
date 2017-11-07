@@ -1,0 +1,23 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterwu1/constructorHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterwu1/constructorHangman/issues"
+  },
+  "homepage": "https://github.com/peterwu1/constructorHangman#readme",
+  "dependencies": {
+    "clear": "0.0.1",
+    "prompt": "^1.0.0"
+  }
+}
