@@ -18,6 +18,7 @@
   "homepage": "https://github.com/peterwu1/constructorHangman#readme",
   "dependencies": {
     "clear": "0.0.1",
+    "inquirer": "^3.3.0",
     "prompt": "^1.0.0"
   }
 }
